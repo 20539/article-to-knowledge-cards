@@ -112,7 +112,7 @@ cp -r make-knowledge-cards ~/.codex/skills/
 ## 目录结构
 
 ```
-test_skill/
+article-to-knowledge-cards/
 ├── README.md                      本说明
 ├── LICENSE                        MIT 许可证
 ├── make-knowledge-cards/           技能本体（可单独分发）
